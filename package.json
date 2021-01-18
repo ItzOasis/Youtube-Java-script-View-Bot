@@ -1,0 +1,16 @@
+{
+  "name": "aa",
+  "version": "1.0.0",
+  "description": "KAHOOT RAID",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ItzOasis",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.3.3",
+    "kahoot-spam": "^1.1.8",
+    "selenium-webdriver": "^4.0.0-alpha.8"
+  }
+}
